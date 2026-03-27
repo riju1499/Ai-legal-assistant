@@ -1,0 +1,14 @@
+/analysis
+__pycache__/
+/backend/venv
+/frontend/node_modules
+/glossary
+/qdrant_storage
+/search_index
+/scripts/csv_exports
+/scripts/metrics_table
+/scripts/list_gemini_models.py
+*.json
+*.pyc
+*.pyo
+*.csv

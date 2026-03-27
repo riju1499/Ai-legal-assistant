@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+torch==2.5.1
+transformers==4.36.2
+faiss-cpu==1.9.0
+numpy==1.26.2
+python-multipart==0.0.6
+google-generativeai
+langchain
+langgraph
+python-dotenv
+requests
+qdrant-client
+pypdf
+sentence-transformers
+
